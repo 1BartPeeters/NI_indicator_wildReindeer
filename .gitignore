@@ -19,7 +19,7 @@ TMB_models/
 .RDataTmp
 
 # R project
-.Rproj
+*.Rproj
 
 # User-specific files
 .Ruserdata
