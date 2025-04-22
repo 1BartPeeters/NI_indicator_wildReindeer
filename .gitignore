@@ -8,6 +8,7 @@ input data/
 output/
 r-scripts/
 TMB_models/
+Naturindeks_villrein.Rproj
 
 ### R ###
 # History files
