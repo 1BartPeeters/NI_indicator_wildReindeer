@@ -21,7 +21,7 @@ Naturindeks_villrein.Rproj
 
 # R project
 *.Rproj
-*.Rproj.user
+*.Rproj.user/
 
 # User-specific files
 .Ruserdata
